@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.dependency 'DZNEmptyDataSet'
   s.dependency 'YTKNetwork'
   s.dependency 'JXCategoryView'
-  s.dependency 'OCThirdParty'
+  s.dependency 'OCThirdParty/MJRefresh'
   s.dependency 'coobjc'
 
 end
