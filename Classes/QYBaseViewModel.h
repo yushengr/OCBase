@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <coobjc.h>
 #import <OCThirdParty/UIScrollView+QYMJRefresh.h>
 
 @protocol QYBaseViewModelDelegate <NSObject>
